@@ -1,0 +1,9 @@
+{
+    "installer_url":  "https://github.com/joaovitorferrazparo/workspace-vega-releases-test/releases/download/v1.3.3/WorkspaceVega_Setup.exe",
+    "changelog":  [
+                      "Teste inicial do fluxo de atualizacao do Workspace Vega.",
+                      "Manifest separado do endpoint oficial para validar o updater.",
+                      "Proxima etapa: anexar o instalador WorkspaceVega_Setup.exe na release v1.3.3."
+                  ],
+    "version":  "1.3.3"
+}
